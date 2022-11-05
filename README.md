@@ -31,6 +31,25 @@ what i have to offer in an organization, below
 3. More animation
 
 
+> Url package was gving bug
+ i use stackoverflow to fix the issue
+
+
+- [x] Appetize.io -  https://appetize.io/app/hdzx4jbiskvquf5sx4bej4qslq?device=pixel4&osVersion=12.0&scale=75
+- [x] APK File  - 
+
+
+## Screenshot
+
+| Dark mode                                                  | Light Mod                                           |
+| -------------------------------------------------------    | --------------------------------------------------- |
+| <img src="assets/images/dark-img1.jpg" width=40%>          |                                                     |
+|                                                            |
+|                        
+
+
+
+
 
 
 
