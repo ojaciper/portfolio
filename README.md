@@ -43,7 +43,7 @@ what i have to offer in an organization, below
 
 | Dark mode                                                                                         | Light Mod                                                                           |
 | --------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------|
-| <img src="assets/images/dark-img1.jpg"width=40%> <img src="assets/images/dark-img2.jpg"width=40%> | <img src="assets/images/light-img1.jpg"width=40%>  <img src="assets/mages-light-img2.jpg"width=40%>|     
+| <img src="assets/images/dark-img1.jpg" width=40%> <img src="assets/images/dark-img2.jpg" width=40%> | <img src="assets/images/light-img1.jpg" width=40%>  <img src="assets/mages-light-img2.jpg" width=40%>|     
 
 
 
