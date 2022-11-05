@@ -41,11 +41,10 @@ what i have to offer in an organization, below
 
 ## Screenshot
 
-| Dark mode                                                  | Light Mod                                           |
-| -------------------------------------------------------    | --------------------------------------------------- |
-| <img src="assets/images/dark-img1.jpg" width=40%> <img src="assets/images/dark-img1.jpg" width=40%>          |                                                     |
-|                                                            |
-|                        
+| Dark mode                                                                                                         | Light Mod                                           |
+| ------------------------------------------------------------------------------------------------------------------| ---------------------------------------------------|
+| <img src="assets/images/dark-img1.jpg" width=40%> <img src="assets/images/dark-img2.jpg" width=40%>               | <img src="assets/images/dark-img1.jpg" width=40%><img src="assets/images/dark-img1.jpg" width=40%>|     
+| <img src="assets/images/dark-img3.jpg" width=40%> <img src="assets/images/dark-img2.jpg" width=40%>               | <img src="assets/images/dark-img1.jpg" width=40%> |            
 
 
 
