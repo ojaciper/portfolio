@@ -1,8 +1,20 @@
-# portfolio
+# Portfolio
 
-A new Flutter project.
+This is a personal portfolio project that shows all my skill and experince,
+what i have to offer in an organization, below 
 
-## Getting Started
+## How the Code work
+### home
+    |
+    |
+    |
+### Drawer
+    |
+    |
+    |
+### About developer
+
+
 
 This project is a starting point for a Flutter application.
 

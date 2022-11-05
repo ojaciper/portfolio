@@ -31,6 +31,7 @@ class MyApp extends StatelessWidget {
               builder: (context, value, child) => MaterialApp(
                 title: 'Portfolio',
                 themeMode: value.getTheme,
+                debugShowCheckedModeBanner: false,
                 theme: ThemeData(
                   colorSchemeSeed: Colors.deepPurple,
                   useMaterial3: true,
