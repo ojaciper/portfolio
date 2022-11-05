@@ -10,19 +10,19 @@ what i have to offer in an organization, below
 3. light and dark mod
 
 ## List of liberies
-1. Google Fonts
+1. Google Fonts<br>
     This package is use to get aweasome font.
 
-2. url_launcher
+2. url_launcher<br>
     This package was use to enable us to link our social media platform and other link,
 
-3. Flutter_screenutil
+3. Flutter_screenutil<br>
     This Package enable to have a responsive fontsize
 
-4. provider 
+4. provider<br>
     This package enable us to manage our theme state
 
-5. hive
+5. hive<br>
     This package was use, to help us store the theme data, whenever we set the theme, the hive store the current theme, so that when we close our app and open it again we will still have our current theme.
 
 ## Feature i will like to add
