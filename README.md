@@ -6,11 +6,7 @@ what i have to offer in an organization, below
 ## How the Code work
 ### home
     |
-    |
-    |
 ### Drawer
-    |
-    |
     |
 ### About developer
 
