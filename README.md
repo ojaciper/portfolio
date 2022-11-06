@@ -43,7 +43,7 @@ what i have to offer in an organization, below
 
 |                                   Dark mode                                                                            | 
 | -------------------------------------------------------------------------------------------------------------------    | 
-| <img src="assets/images/dark-img1.jpg" width=40%>                     <img src="assets/images/dark-img2.jpg" width=40%>| 
+| <img src="assets/images/dark-img1.jpg" width=40%> ------                     <img src="assets/images/dark-img2.jpg" width=40%>| 
 | <img src="assets/images/dark-img3.jpg" width=40%>                     <img src="assets/images/dark-img4.jpg" width=40%>| 
 |                                                                                                                        |
 |                                                                                                                        |
