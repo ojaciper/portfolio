@@ -43,13 +43,13 @@ what i have to offer in an organization, below
 
 |                                   Dark mode                                                                            | 
 | -------------------------------------------------------------------------------------------------------------------    | 
-| <img src="assets/images/dark-img1.jpg" width=40%> ------                     <img src="assets/images/dark-img2.jpg" width=40%>| 
-| <img src="assets/images/dark-img3.jpg" width=40%>  &ensp;                    <img src="assets/images/dark-img4.jpg" width=40%>| 
+| <img src="assets/images/dark-img1.jpg" width=40%>   &emsp;            <img src="assets/images/dark-img2.jpg" width=40%>| 
+| <img src="assets/images/dark-img3.jpg" width=40%>  &emsp;             <img src="assets/images/dark-img4.jpg" width=40%>| 
 |                                                                                                                        |
 |                                                                                                                        |
 |                 Light Mode                                                                                             |   
 |                                                                                                                        |
-| <img src="assets/images/light-img1.jpg" width=40%>                   <img src="assets/images/light-img2.jpg" width=40%>| 
-| <img src="assets/images/light-img3.jpg" width=40%>                   <img src="assets/images/light-img4.jpg" width=40%>| 
+| <img src="assets/images/light-img1.jpg" width=40%>  &emsp;           <img src="assets/images/light-img2.jpg" width=40%>| 
+| <img src="assets/images/light-img3.jpg" width=40%>  &emsp;           <img src="assets/images/light-img4.jpg" width=40%>| 
 |                                                                                                                        |    
 |                                                                                                                        |
