@@ -169,6 +169,49 @@ export const projects: Project[] = [
     mark: 'U',
     markClass: 'bg-[#1e3a5f] text-[#e8eef6]',
     icon: '/projects/ubefu/icon.png',
+    summary: 'Ubefu is an LMS that Ihifix uses to carry out their digital training.',
+    lead: 'Ubefu is an LMS that Ihifix uses to carry out their digital training. It covers assignments, course material, live classes, and progress.',
+    glance: 'Ihifix’s LMS for digital training. Classes, assignments, live sessions, and grades.',
+    gallery: [
+      { src: '/projects/ubefu/home.png', alt: 'Ubefu home with classes, pending assignments, and overdue work' },
+      { src: '/projects/ubefu/classes.png', alt: 'Ubefu classes list with a search and pending work' },
+      { src: '/projects/ubefu/assignments.png', alt: 'Ubefu assignments with work still to do and overdue items' },
+      { src: '/projects/ubefu/sessions.png', alt: 'Ubefu sessions with live, upcoming, and recorded classes' },
+      { src: '/projects/ubefu/notifications.png', alt: 'Ubefu notifications for posted grades and new assignments' },
+      { src: '/projects/ubefu/profile.png', alt: 'Ubefu student profile with certificates, progress, and settings' },
+    ],
+    sections: [
+      {
+        title: 'Assignments and course material',
+        paragraphs: [
+          'Instructors post assignments, course materials, and quizzes. Students submit work in the app and get feedback on it. Class discussions sit with the course.',
+        ],
+      },
+      {
+        title: 'Live classes',
+        paragraphs: [
+          'An instructor can schedule a virtual session and send the link to students. The app lists what is live, what is coming up, and what was recorded, and attendance for those sessions can be tracked. Sessions can connect to Zoom, Google Meet, or Microsoft Teams.',
+        ],
+      },
+      {
+        title: 'Progress',
+        paragraphs: [
+          'The app follows whether a student opened a resource and how long they spent in a module. That activity sits with grades, what is still due, and what is overdue.',
+        ],
+      },
+      {
+        title: 'Other school systems',
+        paragraphs: [
+          'Ubefu can include these learning tools itself, or connect to a system such as Google Classroom, Canvas, or Schoology. Class lists can stay in sync, people can sign in once, and grades can pass back into the school gradebook. Learning Tools Interoperability lets outside quiz tools and content libraries open inside it. SCORM packages can be launched and tracked when a school already uses them. Instructors can also keep material in a shared library and reuse it across years or with colleagues.',
+        ],
+      },
+      {
+        title: 'Mobile',
+        paragraphs: [
+          'Students get a push when new work is posted. They can submit a photo of homework and join a class discussion from the phone.',
+        ],
+      },
+    ],
   }),
 ]
 
