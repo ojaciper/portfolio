@@ -162,7 +162,6 @@ export const projects: Project[] = [
     icon: '/projects/zuri-flex/mark.png',
     iconClass: 'size-24 rounded-[1.15rem] object-cover',
   }),
-  app({ slug: 'qrater', title: 'Qrater', mark: 'Q', markClass: 'bg-[#0f766e] text-[#f0fdfa]' }),
   app({
     slug: 'ubefu',
     title: 'Ubefu',
